@@ -36,7 +36,9 @@ Here’s what I work with:
 Here are some highlights:
 
 - **[Multiple Intelligences](https://github.com/Zuhaitz-dev/multiple-intelligences)**: A modern, interactive web-based quiz to help users discover their dominant intelligence type based on Howard Gardner's Theory of Multiple Intelligences. Available in English, Romanian, and Spanish.
-  
+- **[TOMAT-OS](https://github.com/Zuhaitz-dev/TOMAT-OS)**: Attempt of Operating System (C++) 🍅. Do not expect greatness. I am learning, and that is amazing. I am using [this great tutorial](https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M).
+
+
 ---
 
 ## 📊 **GitHub Stats**
