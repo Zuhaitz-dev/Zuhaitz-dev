@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Zuhaitz-dev!
+# 👋 Hey, I'm Zuhaitz!
 
 I’m a **Computer Engineering student** with a passion for building cool stuff, solving puzzles, and diving into the world of cutting-edge tech. 💻✨  
 
@@ -73,6 +73,10 @@ Here are some highlights:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuhaitz-dev&theme=react-dark&hide_border=true&area=true" alt="Your Coding Activity">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zuhaitz-dev/Zuhaitz-dev/33deafd55b6fe97a6434de965a91fb77ea42620f/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
