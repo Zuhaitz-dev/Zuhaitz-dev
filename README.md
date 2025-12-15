@@ -11,14 +11,12 @@ When I’m not geeking out over code, you’ll find me:
 
 ## 🛠️ **Tech Stack**
 
-Here’s what I work with:
+Here’s what I (mainly) work with:
 
 - **Languages**: 
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   
 - **Tools**: 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
