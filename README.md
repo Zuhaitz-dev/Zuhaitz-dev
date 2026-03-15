@@ -9,7 +9,7 @@
 <br>
 
 > [!NOTE]
-> I am too lazy to set `git` config properly, so most of my activity is not recorded (this doesn't track my work in the [`z-libs`](https://github.com/z-libs) organization either).
+> This doesn't track most of my work in the [`z-libs`](https://github.com/z-libs) organization.
 >
 > *But to be fair... GitHub stats are cheap. Show me the code.*
 
