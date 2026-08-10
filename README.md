@@ -2,7 +2,7 @@
 
 # Hi, I'm Zuhaitz.
 
-### I sometimes build compilers and more often eat C.
+### I sometimes build compilers and more often eat C. Also, I am fully back, baby.
 
 </div>
 
