@@ -2,18 +2,9 @@
 
 # Hi, I'm Zuhaitz.
 
-### I sometimes build compilers and more often eat C. Also, I am fully back, baby.
+### Computers are cool, cats are cooler tho. In my Romania arc.
 
 </div>
-
-<br>
-
-> [!NOTE]
-> This doesn't track most of my work in the [`z-libs`](https://github.com/z-libs) organization.
->
-> *But to be fair... GitHub stats are cheap. Show me the code.*
-
-<br>
 
 <div align="center">
 
